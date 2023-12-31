@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>English</string>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleExecutable</key>
+	<string>Installer</string>
+	<key>CFBundleIconFile</key>
+	<string>app.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>com.anyrecover.Installer</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>AnyRecover Data Recovery Installer</string>
+	<key>CFBundleDisplayName</key>
+	<string>AnyRecover Data Recovery Installer</string>
+	<key>CFBundleShortVersionString</key>
+	<string>1.2.2.422</string>
+	<key>CFBundleVersion</key>
+	<string>1.2.2.422</string>
+	<key>CFBundleSupportedPlatforms</key>
+	<array>
+		<string>MacOSX</string>
+	</array>
+	<key>LSMinimumSystemVersion</key>
+	<string>10.9</string>
+	<key>NSHumanReadableCopyright</key>
+	<string>Copyright © 2023 AnyRecover. All rights reserved.</string>
+	<key>NSMainNibFile</key>
+	<string>MainMenu</string>
+	<key>NSPrincipalClass</key>
+	<string>NSApplication</string>
+	<key>TargetAppBundleID</key>
+	<string>com.clevguard.anyrecover</string>
+	<key>TargetAppName</key>
+	<string>AnyRecover Data Recovery</string>
+	<key>TargetAppURL</key>
+	<string>https://download.anyrecover.com/data-recovery/anyrecover-for-mac.dmg</string>
+	<key>DOMAINID</key>
+	<string>com_english</string>
+	<key>DownloadRatio</key>
+	<integer>90</integer>
+	<key>DownloadThreadCount</key>
+	<integer>8</integer>
+</dict>
+</plist>
